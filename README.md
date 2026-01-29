@@ -27,8 +27,8 @@ Detailed analysis of the GitHub Archive schema and event distribution can be fou
 
 
 ## 💻 Tech Stack
-Language: Python (PySpark)
-Engine: Apache Spark 3.x
-Storage: Parquet / Delta Lake
-Architecture: Medallion (Bronze, Silver and Gold Layers)
-Data Source: GitHub Archive (JSON.GZ) 
+* Language: Python (PySpark)
+* Engine: Apache Spark 3.x
+* Storage: Parquet / Delta Lake
+* Architecture: Medallion (Bronze, Silver and Gold Layers)
+* Data Source: GitHub Archive (JSON.GZ) 
